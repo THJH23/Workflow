@@ -14,5 +14,7 @@
 
 ### GitGui mit Server verbinden
 
-1. Remote_Push öffnen und Link eingeben
+1. Remote_add öffnen und Link eingeben um Server hinzuzufügen
+1. Bestätigung abwarten
+1. Remote_push öffnen um Daten auf Server zu spielen
 1. Bestätigung abwarten
