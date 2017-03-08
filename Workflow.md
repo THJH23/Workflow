@@ -1,6 +1,7 @@
 # Workflow
 
 1. GitGui öffnen und neuen Repository erzeugen
+![GitGui](B2.PNG)   
 1. Speicherordner erstellen und auswählen
 1. notepad++ öffnen für Texteingabe
 1. notepad++ Datei in selben Ordner speichern
@@ -23,4 +24,5 @@
 # Browser anpassen
 1. Add_on Markdown Preview downloaden 
 1. md Datei aus Ordner in neues Tab ziehen: Veränderungen in nodpad++ werden direkt in Chrom verändert
+ 
  
