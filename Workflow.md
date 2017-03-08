@@ -10,7 +10,8 @@
 
 # Server einrichten
 
-1. github.com öffnen und Profil erstellen
+1. Website öffnen: Ouelle:[giithub](https://github.com/) 
+1. Profil erstellen
 1. Neues Repository erstellen mit Name Workflow
 1. Link kopieren
 
